@@ -1,3 +1,0 @@
-r = 12
-t = 5
-print("the total of the two numbers is: ", r + t)

@@ -1,6 +1,6 @@
 from flask import Flask
 from .extensions import db, migrate, login_manager
-from config import Config
+from .config import Config
 
 def create_app():
     app = Flask(__name__)
